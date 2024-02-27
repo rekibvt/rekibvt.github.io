@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+
+
+.title {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+}
